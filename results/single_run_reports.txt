@@ -2,7 +2,7 @@
 MULTI-RUN GPU RUNTIME / THROUGHPUT / METRIC SUMMARY REPORT
 ======================================================================================================================================================
 Definitions:
-  - Each run column corresponds to one selected result directory: Run1=results1, Run2=results2, Run3=results5.
+  - Each run column corresponds to one selected result directory: Run1=results1, Run2=results2, Run3=results3.
   - mean and std are computed across the available numeric values of those runs.
   - std uses pandas/sample standard deviation with ddof=1.
   - If a run is missing or fails to parse, its value is N/A and the error is recorded.

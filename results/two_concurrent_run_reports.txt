@@ -3,19 +3,19 @@
 ======================================================================================================================================================
 This report summarizes repeated launcher experiments across the requested results directories.
 For every numeric metric, it reports the value in each repetition, the mean, and the standard deviation.
-Result directories: results1, results2, results5
+Result directories: results1, results2, results3
 Standard deviation: pandas/std with ddof=1.
 For workload 3, metric_value is mean episode_reward over the last K=10 episodes.
 
 Resolved roots:
   run1: /home/hqj594/workloads/two_concurrent_workloads/results1
   run2: /home/hqj594/workloads/two_concurrent_workloads/results2
-  run3: /home/hqj594/workloads/two_concurrent_workloads/results5
+  run3: /home/hqj594/workloads/two_concurrent_workloads/results3
 
 Processing messages:
   [Run 1] results1: discovered 60 job directories; kept 60 latest group/GPU summaries.
   [Run 2] results2: discovered 60 job directories; kept 60 latest group/GPU summaries.
-  [Run 3] results5: discovered 60 job directories; kept 60 latest group/GPU summaries.
+  [Run 3] results3: discovered 60 job directories; kept 60 latest group/GPU summaries.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 Condition: w1_w1 | GPU: a100
