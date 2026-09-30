@@ -104,11 +104,3 @@ the collected measurements.
 This repository accompanies the paper:
 
 **Pairwise-Guided Selective Profiling for Higher-Order GPU Workload Colocation**
-
-If you use this code or the experimental results, please cite our paper.
-
-```bibtex
-@inproceedings{TODO,
-  title  = {Pairwise-Guided Selective Profiling for Higher-Order GPU Workload Colocation}
-}
-```
