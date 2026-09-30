@@ -1,0 +1,6 @@
+Source:
+https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix
+
+Modified Files:
+train.py
+options/train_options.py
